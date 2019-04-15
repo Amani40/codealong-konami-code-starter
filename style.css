@@ -1,7 +1,7 @@
 .party{
   position:relative;
   overflow:hidden;
-  animation: party 2s;
+  animation: party 2s infinite;
 }
 @keyframes party{
   0%{
